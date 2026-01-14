@@ -1,4 +1,3 @@
-# grainger-market-geordie-santa-campaign
 # Wander & Wonder in Winter Wonderland  
 **Winning campaign concept for Grainger Market**  
 Gardiner Richardson University Challenge
