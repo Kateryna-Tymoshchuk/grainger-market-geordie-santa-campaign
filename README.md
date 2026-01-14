@@ -3,7 +3,7 @@
 **Winning campaign concept for Grainger Market**  
 Gardiner Richardson University Challenge
 
-This repository showcases a full-funnel marketing strategy developed for a live brief set by *Gardiner Richardson* for *Grainger Market* — one of Newcastle’s most iconic cultural spaces.
+This repository showcases a full-funnel marketing strategy developed for a live brief set by *Gardiner Richardson* for *Grainger Market* - one of Newcastle’s most iconic cultural spaces.
 
 Our team’s proposal was selected as the **winning entry** among all university teams.
 
@@ -80,6 +80,8 @@ My role combined:
 - Storytelling for stakeholders  
 
 ---
+
+## Key Visuals
 
 ## Key Visuals
 
