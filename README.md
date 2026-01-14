@@ -83,8 +83,6 @@ My role combined:
 
 ## Key Visuals
 
-## Key Visuals
-
 ![Hero](assets/01-hero.png)
 
 ![Objectives](assets/02-smart-objectives.png)
